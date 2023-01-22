@@ -9,7 +9,7 @@ func EasyDifficulty() {
 	var num int
 	
 	// Reads user input
-	fmt.Print("twoSum(1): returns two numbers, in arrys [15, 2, 11, 7] that sum is equal to target(9)\nrunningSum(2):Description\nWhich problem do you wanna solve? ")
+	fmt.Print("twoSum(1): returns two numbers, in arrys [15, 2, 11, 7] that sum is equal to target(9)\nrunningSum(2): Descriptione\nWhich problem do you wanna solve? ")
 	fmt.Scanf("%d", &num)
 	
 	// Runs problem selected
